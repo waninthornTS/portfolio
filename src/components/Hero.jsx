@@ -48,7 +48,7 @@ export default function Hero() {
             View my experience
           </a>
           <a className="btn ghost" href={base + profile.resume} download>
-            ⬇ Download résumé
+            ⬇ Download Resume
           </a>
         </div>
         <div className="hero-links reveal">

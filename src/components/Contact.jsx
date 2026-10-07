@@ -56,7 +56,7 @@ export default function Contact() {
             Email me
           </a>
           <a className="btn ghost" href={base + profile.resume} download>
-            ⬇ Download résumé
+            ⬇ Download Resume
           </a>
         </div>
       </div>

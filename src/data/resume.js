@@ -1,4 +1,4 @@
-// All portfolio content lives here (source: Waninthorn's résumé). Edit this file to update the site.
+// All portfolio content lives here (source: Waninthorn's resume). Edit this file to update the site.
 
 export const profile = {
   name: 'Waninthorn Tepbundalsuk',
